@@ -22,7 +22,7 @@ Extract quote statements in [Quotes to Scrape](http://quotes.toscrape.com) and s
 * Author Page
 * Tags
 
-Refer to file "**example_quotes_to_scrape.ipynb_**"
+Refer to file "**_example_quotes_to_scrape.ipynb_**"
 
 ## Example 2: Selenium to extract reviews
 Extract reviews in [Trip Advisor](https://www.tripadvisor.com.sg/) and save in local json file with fields:
@@ -32,4 +32,4 @@ Extract reviews in [Trip Advisor](https://www.tripadvisor.com.sg/) and save in l
 * Description
 * Created Date
 
-Refer to file "**example_tripadvisor.ipynb_**"
+Refer to file "**_example_tripadvisor.ipynb_**"
