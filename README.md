@@ -7,9 +7,9 @@ Below are several different methods to read header and tags in [http://quotes.to
 2. Scrapy
 3. Selenium with ChromeDriver
 
-Refer to file "**_Comparison between libraries or frameworks.ipynb_**"
+Refer to file "**main_comparison.ipynb_**"
 
 ## Example - Quotes to Scrape
 Scrape quotes (statement, author, author page, tag) in all pages (10 pages) in [http://quotes.toscrape.com](http://quotes.toscrape.com).
 
-Refer to file "**_Examples/Example - Quotes to Scrape.ipynb_**"
+Refer to file "**_examples/example_quotes_to_scrape.ipynb_**"
